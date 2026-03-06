@@ -8,7 +8,13 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inpesçeão](images/inspeção.png)
+
+
+## Tela do resultado do arquivo index.html
+
+![Hello World](images/helloWorld.png)
+
 
 
 ## Orientações sobre Linguagem MarkDown
